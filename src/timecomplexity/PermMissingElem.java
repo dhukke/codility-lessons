@@ -15,7 +15,7 @@ public class PermMissingElem {
 		System.out.println(solution(A));
 	}
 
-	//https://codesays.com/2014/solution-to-perm-check-by-codility/
+	// Help: https://codesays.com/2014/solution-to-perm-check-by-codility/
 	public static int solution(int[] A) {
 
 		int[] counter = new int [A.length];

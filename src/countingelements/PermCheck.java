@@ -14,7 +14,7 @@ public class PermCheck {
 		System.out.println(solution(A));
 	}
 
-	// http://codereview.stackexchange.com/questions/47471/perm-missing-elem-100-functional-score-but-only-60-performance
+	// Help: http://codereview.stackexchange.com/questions/47471/perm-missing-elem-100-functional-score-but-only-60-performance
 	public static int solution(int[] A) {
 
 		int N = A.length + 1;

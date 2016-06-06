@@ -18,7 +18,7 @@ public class MissingInteger {
 		System.out.println(solution(A));
 	}
 
-	// http://stackoverflow.com/questions/26532081/codility-missinginteger-java
+	// Help: http://stackoverflow.com/questions/26532081/codility-missinginteger-java
 	public static int solution(int[] A) {
 
 		int num = 1;

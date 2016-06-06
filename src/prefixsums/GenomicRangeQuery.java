@@ -23,7 +23,7 @@ public class GenomicRangeQuery {
 		}
 	}
 
-	// http://stackoverflow.com/questions/19552754/java-codility-training-genomic-range-query
+	// Help: http://stackoverflow.com/questions/19552754/java-codility-training-genomic-range-query
 	public static int[] solution(String S, int[] P, int[] Q) {
 		// used jagged array to hold the prefix sums of each A, C and G genoms
 		// we don't need to get prefix sums of T, you will see why.
